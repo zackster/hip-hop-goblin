@@ -1,0 +1,321 @@
+[10-Sep-2009 13:36:27] PHP Fatal error:  Using $this when not in object context in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 362
+[10-Sep-2009 13:37:45] PHP Notice:  Undefined index:  comments in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 364
+[10-Sep-2009 13:37:45] PHP Notice:  Undefined index:  comments in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 365
+[10-Sep-2009 13:37:45] PHP Notice:  Undefined index:  comments in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 366
+[10-Sep-2009 13:38:16] PHP Notice:  Undefined index:  comments in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 365
+[10-Sep-2009 13:38:16] PHP Notice:  Undefined index:  comments in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 366
+[10-Sep-2009 13:38:16] PHP Notice:  Undefined index:  comments in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 367
+[10-Sep-2009 14:11:09] PHP Notice:  Undefined index:  artist in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 365
+[10-Sep-2009 14:11:09] PHP Notice:  Undefined index:  artist in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 366
+[10-Sep-2009 14:11:50] PHP Notice:  Undefined index:  artist in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 366
+[10-Sep-2009 14:11:50] PHP Notice:  Undefined index:  artist in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 367
+[10-Sep-2009 14:20:35] PHP Notice:  Undefined variable: title_edit in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 378
+[10-Sep-2009 16:32:44] PHP Fatal error:  Cannot redeclare encrypt() (previously declared in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php:133) in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 492
+[10-Sep-2009 16:33:30] PHP Fatal error:  Cannot use object of type FileInfo as array in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 176
+[10-Sep-2009 16:35:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'devsquid'@'localhost' (using password: NO) in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 179
+[10-Sep-2009 16:35:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 179
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: userid in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 179
+[10-Sep-2009 16:35:10] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 182
+[10-Sep-2009 16:35:10] PHP Warning:  Missing argument 2 for encrypt(), called in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 371 and defined in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 133
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:35:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'devsquid'@'localhost' (using password: NO) in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 179
+[10-Sep-2009 16:37:53] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 179
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: userid in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 179
+[10-Sep-2009 16:37:53] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 182
+[10-Sep-2009 16:37:53] PHP Warning:  Missing argument 2 for encrypt(), called in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 371 and defined in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 133
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:37:53] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'devsquid'@'localhost' (using password: NO) in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 179
+[10-Sep-2009 16:38:10] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 179
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: userid in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 179
+[10-Sep-2009 16:38:10] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 182
+[10-Sep-2009 16:38:10] PHP Warning:  Missing argument 2 for encrypt(), called in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 371 and defined in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 133
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:38:10] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 137
+[10-Sep-2009 16:39:41] PHP Warning:  Missing argument 2 for encrypt(), called in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 371 and defined in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 135
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:39:41] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Missing argument 2 for encrypt(), called in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 371 and defined in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 135
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Notice:  Undefined variable: key in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:40:09] PHP Warning:  Division by zero in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 139
+[10-Sep-2009 16:43:57] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 373
+[10-Sep-2009 16:55:52] PHP Parse error:  syntax error, unexpected T_CLASS in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished_lib.php on line 385
+[10-Sep-2009 18:18:52] PHP Fatal error:  Call to undefined function decrypt() in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 5
+[10-Sep-2009 18:37:12] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 78
+[10-Sep-2009 18:37:46] PHP Parse error:  syntax error, unexpected '{', expecting ',' or ';' in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 81
+[10-Sep-2009 18:38:25] PHP Fatal error:  Class 'Song' not found in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 74
+[10-Sep-2009 18:40:35] PHP Warning:  Wrong parameter count for mysql_query() in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 78
+[10-Sep-2009 18:40:35] PHP Warning:  Wrong parameter count for mysql_query() in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 78
+[10-Sep-2009 18:42:41] PHP Warning:  Wrong parameter count for mysql_query() in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 78
+[10-Sep-2009 18:42:41] PHP Warning:  Wrong parameter count for mysql_query() in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 78
+[10-Sep-2009 19:10:59] PHP Parse error:  syntax error, unexpected T_ECHO in /home/devsquid/public_html/hiphopgoblin.com/test/b64.php on line 5
+[16-Sep-2009 13:45:18] PHP Parse error:  syntax error, unexpected T_SL in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 71
+[16-Sep-2009 13:45:39] PHP Parse error:  syntax error, unexpected T_SL in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 71
+[16-Sep-2009 13:46:00] PHP Parse error:  syntax error, unexpected T_SL in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 71
+[16-Sep-2009 13:50:32] PHP Parse error:  syntax error, unexpected T_SL in /home/devsquid/public_html/hiphopgoblin.com/upload/id3.php on line 71
+[16-Sep-2009 14:49:42] PHP Parse error:  syntax error, unexpected ',' in /home/devsquid/public_html/hiphopgoblin.com/upload/move_to_s3.php on line 15
+[16-Sep-2009 14:49:56] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/upload/move_to_s3.php on line 9
+[16-Sep-2009 14:49:56] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/devsquid/public_html/hiphopgoblin.com/upload/move_to_s3.php on line 11
+[26-Sep-2009 09:37:32] PHP Notice:  Undefined variable: output_arr in /home/devsquid/public_html/hiphopgoblin.com/upload/ubr_finished.php on line 247
+[26-Sep-2009 10:01:56] PHP Warning:  file_get_contents(/home/devsquid/public_html/hiphopgoblin.com/temp/ubr/chill.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/lib/S3.lib.php on line 19

@@ -1,0 +1,7 @@
+php_flag upload_max_filesize 15M
+php_flag max_upload_filesize 15M
+php_flag max_execution_time 500
+php_flag post_max_size 15M
+#php_flag memory_limit = 128M
+php_value memory_limit 128M
+Options All -Indexes

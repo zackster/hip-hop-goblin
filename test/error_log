@@ -1,0 +1,169 @@
+[27-Aug-2009 21:25:05] PHP Warning:  include(../classes/DownloadManager.php): failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/test/download.php on line 3
+[27-Aug-2009 21:25:05] PHP Warning:  include(../classes/DownloadManager.php): failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/test/download.php on line 3
+[27-Aug-2009 21:25:05] PHP Warning:  include(): Failed opening '../classes/DownloadManager.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/devsquid/public_html/hiphopgoblin.com/test/download.php on line 3
+[27-Aug-2009 21:25:05] PHP Fatal error:  Class 'DownloadManager' not found in /home/devsquid/public_html/hiphopgoblin.com/test/download.php on line 5
+[27-Aug-2009 21:25:29] PHP Parse error:  syntax error, unexpected '{' in /home/devsquid/public_html/hiphopgoblin.com/classes/DownloadManager.class.php on line 96
+[27-Aug-2009 21:26:14] PHP Warning:  file_put_contents(tracks/ef29810006a630ce24d79ab787b774f7.mp3): failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/classes/DownloadManager.class.php on line 85
+[27-Aug-2009 21:26:14] PHP Fatal error:  Cannot access private property DownloadManager::$filename in /home/devsquid/public_html/hiphopgoblin.com/test/download.php on line 8
+[28-Aug-2009 16:23:03] PHP Fatal error:  Class 'DBHandler' not found in /home/devsquid/public_html/hiphopgoblin.com/test/db.php on line 4
+[28-Aug-2009 16:23:21] PHP Warning:  include(../classes/DBHandler.php): failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/test/db.php on line 3
+[28-Aug-2009 16:23:21] PHP Warning:  include(../classes/DBHandler.php): failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/test/db.php on line 3
+[28-Aug-2009 16:23:21] PHP Warning:  include(): Failed opening '../classes/DBHandler.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/devsquid/public_html/hiphopgoblin.com/test/db.php on line 3
+[28-Aug-2009 16:23:21] PHP Fatal error:  Class 'DBHandler' not found in /home/devsquid/public_html/hiphopgoblin.com/test/db.php on line 5
+[28-Aug-2009 16:23:38] PHP Fatal error:  Cannot access private property DBHandler::$result in /home/devsquid/public_html/hiphopgoblin.com/test/db.php on line 8
+[28-Aug-2009 16:39:55] PHP Fatal error:  Class 'DBHandler' not found in /home/devsquid/public_html/hiphopgoblin.com/classes/Song.class.php on line 13
+[02-Sep-2009 19:46:44] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 4
+[02-Sep-2009 19:48:01] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 4
+[02-Sep-2009 19:48:13] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 4
+[02-Sep-2009 19:48:34] PHP Parse error:  syntax error, unexpected '}' in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 35
+[02-Sep-2009 19:49:05] PHP Parse error:  syntax error, unexpected T_VAR in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 72
+[02-Sep-2009 19:49:14] PHP Parse error:  syntax error, unexpected T_VAR in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 140
+[02-Sep-2009 19:49:20] PHP Parse error:  syntax error, unexpected '>' in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 168
+[02-Sep-2009 19:53:02] PHP Parse error:  syntax error, unexpected T_VAR in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 178
+[02-Sep-2009 19:53:12] PHP Parse error:  syntax error, unexpected ';' in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 181
+[02-Sep-2009 19:53:31] PHP Parse error:  syntax error, unexpected ';' in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 181
+[02-Sep-2009 19:55:20] PHP Parse error:  syntax error, unexpected ';' in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 181
+[02-Sep-2009 19:55:45] PHP Parse error:  syntax error, unexpected '}' in /home/devsquid/public_html/hiphopgoblin.com/test/js.php on line 182
+[06-Sep-2009 18:29:37] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/devsquid/public_html/hiphopgoblin.com/test/lime.php on line 22
+[06-Sep-2009 18:57:34] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/devsquid/public_html/hiphopgoblin.com/test/lime.php on line 30
+[06-Sep-2009 18:57:34] PHP Parse error:  syntax error, unexpected T_STRING in /home/devsquid/public_html/hiphopgoblin.com/test/lime.php on line 30
+[06-Sep-2009 18:58:56] PHP Parse error:  syntax error, unexpected ']' in /home/devsquid/public_html/hiphopgoblin.com/test/lime.php on line 30
+[06-Sep-2009 19:03:44] PHP Parse error:  syntax error, unexpected '[' in /home/devsquid/public_html/hiphopgoblin.com/test/lime.php on line 30
+[06-Sep-2009 19:10:43] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home/devsquid/public_html/hiphopgoblin.com/test/lime.php on line 32
+[06-Sep-2009 19:13:12] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/devsquid/public_html/hiphopgoblin.com/test/lime.php on line 12
+[06-Sep-2009 19:18:42] PHP Fatal error:  Using $this when not in object context in /home/devsquid/public_html/hiphopgoblin.com/test/lime.php on line 22
+[07-Sep-2009 23:42:43] PHP Catchable fatal error:  Object of class DOMElement could not be converted to string in /home/devsquid/public_html/hiphopgoblin.com/test/blogparse.php on line 28
+[07-Sep-2009 23:48:57] PHP Fatal error:  Class 'URLHandler' not found in /home/devsquid/public_html/hiphopgoblin.com/classes/Song.class.php on line 37
+[10-Sep-2009 10:05:29] PHP Warning:  mysql_query(): Access denied for user 'devsquid'@'localhost' (using password: NO) in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 9
+[10-Sep-2009 10:05:29] PHP Warning:  mysql_query(): A link to the server could not be established in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 9
+[10-Sep-2009 10:05:29] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 10
+[10-Sep-2009 10:05:29] PHP Fatal error:  Call to undefined function mysql_select() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 20
+[10-Sep-2009 10:06:06] PHP Fatal error:  Call to undefined function mysql_select() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 23
+[10-Sep-2009 10:27:50] PHP Fatal error:  Call to undefined function unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 47
+[10-Sep-2009 10:30:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:36:12] PHP Warning:  Wrong parameter count for array_unshift() in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 48
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[10-Sep-2009 10:42:29] PHP Warning:  sprintf(): Too few arguments in /home/devsquid/public_html/hiphopgoblin.com/test/bayesian_ranking.php on line 49
+[11-Sep-2009 11:51:35] PHP Parse error:  syntax error, unexpected T_PRIVATE in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 3
+[11-Sep-2009 11:51:59] PHP Parse error:  syntax error, unexpected T_IF in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 36
+[11-Sep-2009 11:52:07] PHP Parse error:  syntax error, unexpected T_RETURN in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 72
+[11-Sep-2009 11:52:16] PHP Parse error:  syntax error, unexpected '}' in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 75
+[11-Sep-2009 11:52:26] PHP Fatal error:  Class 'DBHandler' not found in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 20
+[11-Sep-2009 11:52:50] PHP Fatal error:  Class 'DBHandler' not found in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 20
+[11-Sep-2009 11:53:02] PHP Warning:  include_once(/home/devsquid/public_html/hiphopgoblin.com/classes/DBHandler.php): failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 20
+[11-Sep-2009 11:53:02] PHP Warning:  include_once(): Failed opening '/home/devsquid/public_html/hiphopgoblin.com/classes/DBHandler.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 20
+[11-Sep-2009 11:53:02] PHP Fatal error:  Class 'DBHandler' not found in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 22
+[11-Sep-2009 11:56:28] PHP Fatal error:  Call to a member function member_get_recommended_items() on a non-object in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 65
+[11-Sep-2009 11:57:11] PHP Warning:  include(vogoo/vogoo.php): failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 63
+[11-Sep-2009 11:57:11] PHP Warning:  include(vogoo/vogoo.php): failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 63
+[11-Sep-2009 11:57:11] PHP Warning:  include(): Failed opening 'vogoo/vogoo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 63
+[11-Sep-2009 11:57:11] PHP Warning:  include(vogoo/items.php): failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 64
+[11-Sep-2009 11:57:11] PHP Warning:  include(vogoo/items.php): failed to open stream: No such file or directory in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 64
+[11-Sep-2009 11:57:11] PHP Warning:  include(): Failed opening 'vogoo/items.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 64
+[11-Sep-2009 11:57:11] PHP Fatal error:  Call to a member function member_get_recommended_items() on a non-object in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 69
+[11-Sep-2009 11:57:36] PHP Warning:  Invalid argument supplied for foreach() in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 70
+[11-Sep-2009 11:58:16] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/devsquid/public_html/hiphopgoblin.com/vogoo/items.php on line 87
+[11-Sep-2009 11:59:46] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/devsquid/public_html/hiphopgoblin.com/vogoo/items.php on line 87
+[11-Sep-2009 11:59:47] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/devsquid/public_html/hiphopgoblin.com/vogoo/items.php on line 87
+[11-Sep-2009 12:04:37] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/devsquid/public_html/hiphopgoblin.com/classes/vogoo/items.php on line 87
+[11-Sep-2009 12:05:54] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/devsquid/public_html/hiphopgoblin.com/classes/vogoo/items.php on line 87
+[11-Sep-2009 12:07:46] PHP Warning:  Invalid argument supplied for foreach() in /home/devsquid/public_html/hiphopgoblin.com/classes/MusicPlayer.class.php on line 28
+[11-Sep-2009 12:07:46] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/devsquid/public_html/hiphopgoblin.com/classes/vogoo/items.php on line 87
+[11-Sep-2009 12:08:02] PHP Fatal error:  Call to a member function sql_query() on a non-object in /home/devsquid/public_html/hiphopgoblin.com/classes/vogoo/items.php on line 87

@@ -1,0 +1,375 @@
+/******************************************************************************************************
+//	Name: ubr.css
+//	Revision: 2.0
+//	Date: 9:16 PM April 24, 2009
+//	Link: http://uber-uploader.sourceforge.net
+//	Developer: Peter Schmandra
+//	Description: Provide some basic styling
+//
+//	BEGIN LICENSE BLOCK
+//	The contents of this file are subject to the Mozilla Public License
+//	Version 1.1 (the "License"); you may not use this file except in
+//	compliance with the License. You may obtain a copy of the License
+//	at http://www.mozilla.org/MPL/
+//
+//	Software distributed under the License is distributed on an "AS IS"
+//	basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See
+//	the License for the specific language governing rights and
+//	limitations under the License.
+//
+//	Alternatively, the contents of this file may be used under the
+//	terms of either the GNU General Public License Version 2 or later
+//	(the "GPL"), or the GNU Lesser General Public License Version 2.1
+//	or later (the "LGPL"), in which case the provisions of the GPL or
+//	the LGPL are applicable instead of those above. If you wish to
+//	allow use of your version of this file only under the terms of
+//	either the GPL or the LGPL, and not to allow others to use your
+//	version of this file under the terms of the MPL, indicate your
+//	decision by deleting the provisions above and replace them with the
+//	notice and other provisions required by the GPL or the LGPL. If you
+//	do not delete the provisions above, a recipient may use your
+//	version of this file under the terms of any one of the MPL, the GPL
+//	or the LGPL.
+//	END LICENSE BLOCK
+***************************************************************************************************************/
+
+label.error { float: none; color: red; padding-left: .5em; vertical-align: top; }
+
+body {
+	background-color: #EEEEEE;
+}
+
+#main_container{
+	width:100%;
+	height:100%;
+	margin:auto;
+	text-align:center;
+	font: 14px Arial;
+}
+
+#ubr_debug {
+	font: 10px Arial;
+	background-color: #F8F8F8;
+	border: 1px solid #969696;
+	width: 780px;
+	height: 100px;
+	overflow: auto;
+	text-align: left;
+	margin: auto;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+#ubr_alert {
+	font: 18px Arial;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.ubrError {
+	color: red;
+}
+
+.ubrWarning{
+	color: orange;
+}
+
+#upload_container{
+	display:none;
+}
+
+/* PROGRESS BAR */
+#progress_bar_container{
+	width:482px;
+	margin:auto;
+	text-align:center;
+	display:none;
+	height:22px;
+}
+
+#upload_stats_toggle{
+	float:left;
+	width:40px;
+	height:20px;
+	font: 14px Arial;
+	text-align:center;
+	padding-top: 3px;
+	cursor:pointer;
+	/*
+	background-image: url('./images/toggle.png');
+	background-repeat: no-repeat;
+	background-position:12px 3px;
+	*/
+}
+
+#progress_bar_background{
+	float:left;
+	background-color: #DBDBDB;
+	height:21px;
+	width:400px;
+	z-index:5;
+	border:1px solid #969696;
+	/*
+	background-image: url('./images/progress_bar_white.png');
+	background-repeat: repeat-x;
+	*/
+}
+
+#progress_bar{
+	float:left;
+	background-color: #5E6F83;
+	height:21px;
+	width:0px;
+	z-index:6;
+	/*
+	background-image: url('./images/progress_bar_blue.png');
+	background-repeat: repeat-x;
+	*/
+}
+
+#percent_complete{
+	float:left;
+	width:40px;
+	height:20px;
+	font: 14px Arial;
+	text-align:center;
+	padding-top: 3px;
+}
+/* PROGRESS BAR */
+
+/* UPLOAD STATISTICS */
+#upload_stats_container{
+	font: 14px Arial;
+	background-color:#F8F8F8;
+	width:323px;
+	margin:auto;
+	display:none;
+	border-top:1px solid #969696;
+	margin-bottom: 5px;
+}
+
+.upload_stats_label{
+	width: 160px;
+	height: 20px;
+	text-align: left;
+	float:left;
+	background-color:#F8F8F8;
+	border-bottom:1px solid #969696;
+	border-left:1px solid #969696;
+	padding-top: 3px;
+}
+
+.upload_stats_data{
+	width: 160px;
+	height: 20px;
+	text-align: center;
+	float:left;
+	background-color:#F8F8F8;
+	border-bottom:1px solid #969696;
+	border-right:1px solid #969696;
+	border-left:1px solid #969696;
+	padding-top: 3px;
+}
+/* UPLOAD STATISTICS */
+
+/* FILE PICKER */
+#file_picker_container{
+	width:500px;
+	margin:auto;
+	text-align:center;
+	margin-bottom: 10px;
+}
+
+.upfile_ultimo{}
+/* FILE PICKER */
+
+/* UPLOAD SLOTS */
+#upload_slots_container{
+	display:none;
+	margin:auto;
+	text-align:center;
+	font: 14px Arial;
+	width:400px;
+	border-top:1px solid #969696;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.upfile_label{
+	height:24px;
+	background:#F9F9F9;
+}
+
+.upfile_name {
+	width:371px;
+	height:20px;
+	float: left;
+	border-bottom:1px solid #969696;
+	border-left:1px solid #969696;
+	padding-top: 3px;
+}
+
+.upfile_remove{
+	float:left;
+	width:26px;
+	height:20px;
+	padding-top: 3px;
+	cursor:pointer;
+	border-left:1px solid #969696;
+	border-right:1px solid #969696;
+	border-bottom:1px solid #969696;
+	/*
+	background-image: url('./images/cross.png');
+	background-repeat: no-repeat;
+	background-position:5px 3px;
+	*/
+}
+/* UPLOAD SLOTS */
+
+/* UPLOAD BUTTONS */
+#upload_buttons_container{
+	width:500px;
+	height:20px;
+	margin:auto;
+	text-align:center;
+	margin-top: 10px;
+}
+
+#reset_button{}
+
+#upload_button{}
+/* UPLOAD BUTTONS */
+
+/* UPLOAD RESULTS */
+#upload_results_container{
+	width:605px;
+	margin:auto;
+	text-align:center;
+	font: 14px Arial;
+}
+
+#upload_results_file_name_header{
+	font: 16px Arial;
+	font-weight:bold;
+	background-color:#D8D8D8;
+	float:left;
+	width:200px;
+	height:20px;
+	padding-top: 2px;
+	border-top:1px solid #969696;
+	border-bottom:1px solid #969696;
+	border-left:1px solid #969696;
+}
+#upload_results_artist_header{
+        font: 16px Arial;
+        font-weight:bold;
+        background-color:#D8D8D8;
+        float:left;
+        width:200px;
+        height:20px;
+        padding-top: 2px;
+        border-top:1px solid #969696;
+        border-bottom:1px solid #969696;
+        border-left:1px solid #969696;
+}
+
+#upload_results_title_header{
+        font: 16px Arial;
+        font-weight:bold;
+        background-color:#D8D8D8;
+        float:left;
+        width:200px;
+        height:20px;
+        padding-top: 2px;
+        border-top:1px solid #969696;
+        border-bottom:1px solid #969696;
+        border-left:1px solid #969696;
+	border-right:1px solid #969696;
+}
+
+
+
+#upload_results_album_header{
+	font: 16px Arial;
+	font-weight:bold;
+	background-color:#D8D8D8;
+	float:left;
+	width:200px;
+	height:20px;
+	padding-top: 2px;
+	border-top:1px solid #969696;
+	border-bottom:1px solid #969696;
+	border-left:1px solid #969696;
+	border-right:1px solid #969696;
+}
+
+.upload_results_file_name{
+	float:left;
+	width:200px;
+	height:22px;
+	padding-top: 5px;
+	border-bottom:1px solid #969696;
+	border-left:1px solid #969696;
+}
+
+.upload_results_artist{
+        float:left;
+        width:200px;
+        height:22px;
+        padding-top: 5px;
+        border-bottom:1px solid #969696;
+        border-left:1px solid #969696;
+}
+.upload_results_title{
+        float:left;
+        width:200px;
+        height:22px;
+        padding-top: 5px;
+        border-bottom:1px solid #969696;
+        border-left:1px solid #969696;
+	border-right:1px solid #969696;
+}
+.upload_results_album{
+	float:left;
+	width:200px;
+	height:22px;
+	padding-top: 5px;
+	border-bottom:1px solid #969696;
+	border-left:1px solid #969696;
+	border-right:1px solid #969696;
+}
+
+.upload_results_file_size{
+        float:left;
+        width:400px;
+        height:22px;
+        padding-top: 5px;
+        border-bottom:1px solid #969696;
+        border-left:1px solid #969696;
+        border-right:1px solid #969696;
+}
+
+
+.upload_results_edit {
+	height:24px;
+	padding-top:3px;
+}
+
+.upload_results_even{
+	background-color:#F0F0F0;
+}
+
+.upload_results_odd{
+	background-color:#F8F8F8;
+}
+/* UPLOAD RESULTS */
+
+#preloader{
+	position: absolute;
+	left: -110%;
+	top: -110%;
+	height: 0;
+	width: 0;
+	border-width: 0;
+	z-index: -30;
+}
