@@ -1,0 +1,29 @@
+1. Upload
+       * modify upload/* to work as such: Feel free to use upload/index.php (the ubr uploader) as a template
+            1. User uploads a ZIP or MP3 file
+            2. File is uploaded to server,
+                  1. If file is a zip, zip is uncompressed
+            3. Files are checked to make sure they are audio
+            4. Files are then transcoded into 92kbps vbr via ffmpeg
+            5. Files are then uploaded to amazon s3 via a background job
+            6. Information about files is then inserted into the database. 
+            7. User is asked to tag files with artist / track / album, and then database is updated accordingly
+
+2. Voting/Song recommendation
+       * Modify vote.php 
+            1. Replace vogoo with DirectedEdge. Documentation is available on their website.
+                   o Email zackster@gmail.com for access to our DE account tokens.
+
+                     http://developer.directededge.com/article/Getting_started_for_PHP_developers
+            2. Basically, DE should recommend a song for the user, but only after all songs have been listened to at least once. If a song has no plays/votes in the db, it should be dispatched ("recommended") to a user. Maybe we should go so far as to say each song should be recommended to at least 2 users. 
+
+3. Flash client
+       * Justin Lukeas from Hacker News is working on the Flash client, should be a cleaner look, and more efficient.
+
+4. Refactor code
+		* Uniform indentations
+		* Ask me of any questions and then add a comment in the place where you were originally confused. 
+		* Implement phpDocumentor http://www.phpdoc.org/
+		* Extract all passwords into separate config.php file
+		* Any DB connection to be handled through DBHandler.php
+		

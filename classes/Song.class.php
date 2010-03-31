@@ -137,7 +137,7 @@ class Song {
 			return;
 		}
 		else {
-	                require_once('/home/devsquid/public_html/hiphopgoblin.com/lib/ID3.lib.php');
+			require_once('/home/devsquid/public_html/hiphopgoblin.com/lib/ID3.lib.php');
 			$getid3 = new getID3; 
 			$mytag = $getid3->analyze($this->filename);
 			getid3_lib::CopyTagsToComments($mytag);  

@@ -1,5 +1,7 @@
 <?php
 
+/* Follows a TinyURL, Bit.ly, etc. url shortener to its logical conclusion */
+
 class URLHandler {
 	
 	private $url;
