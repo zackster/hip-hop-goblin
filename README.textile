@@ -16,7 +16,8 @@ A quick* guide for people who've never used github:
     * make your account on github
     * set up an ssh key pair http://help.github.com/key-setup-redirect
     * set up user name, email and GitHub token http://help.github.com/git-email-settings/
-    * fork it, make changes, commit changes, push those changes, submit pull request http://help.github.com/forking/
+    * fork it, make changes, commit changes, push those changes http://help.github.com/forking/
+    * Submit pull request to Zackster
     * Success!
 
 *please let us know if it is not clear enough or needs improvement. Thanks!
